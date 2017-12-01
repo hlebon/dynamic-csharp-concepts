@@ -1,0 +1,11 @@
+c:\users\hans.garcia.000\documents\visual studio 2017\Projects\DynamicFundamentals\DynamicFundamentals\bin\Debug\netcoreapp2.0\DynamicFundamentals.deps.json
+c:\users\hans.garcia.000\documents\visual studio 2017\Projects\DynamicFundamentals\DynamicFundamentals\bin\Debug\netcoreapp2.0\DynamicFundamentals.runtimeconfig.json
+c:\users\hans.garcia.000\documents\visual studio 2017\Projects\DynamicFundamentals\DynamicFundamentals\bin\Debug\netcoreapp2.0\DynamicFundamentals.runtimeconfig.dev.json
+c:\users\hans.garcia.000\documents\visual studio 2017\Projects\DynamicFundamentals\DynamicFundamentals\bin\Debug\netcoreapp2.0\DynamicFundamentals.dll
+c:\users\hans.garcia.000\documents\visual studio 2017\Projects\DynamicFundamentals\DynamicFundamentals\bin\Debug\netcoreapp2.0\DynamicFundamentals.pdb
+c:\users\hans.garcia.000\documents\visual studio 2017\Projects\DynamicFundamentals\DynamicFundamentals\obj\Debug\netcoreapp2.0\DynamicFundamentals.csproj.CoreCompileInputs.cache
+c:\users\hans.garcia.000\documents\visual studio 2017\Projects\DynamicFundamentals\DynamicFundamentals\obj\Debug\netcoreapp2.0\DynamicFundamentals.AssemblyInfoInputs.cache
+c:\users\hans.garcia.000\documents\visual studio 2017\Projects\DynamicFundamentals\DynamicFundamentals\obj\Debug\netcoreapp2.0\DynamicFundamentals.AssemblyInfo.cs
+c:\users\hans.garcia.000\documents\visual studio 2017\Projects\DynamicFundamentals\DynamicFundamentals\obj\Debug\netcoreapp2.0\DynamicFundamentals.dll
+c:\users\hans.garcia.000\documents\visual studio 2017\Projects\DynamicFundamentals\DynamicFundamentals\obj\Debug\netcoreapp2.0\DynamicFundamentals.pdb
+c:\users\hans.garcia.000\documents\visual studio 2017\Projects\DynamicFundamentals\DynamicFundamentals\obj\Debug\netcoreapp2.0\DynamicFundamentals.csprojResolveAssemblyReference.cache
